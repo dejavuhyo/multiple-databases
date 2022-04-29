@@ -9,6 +9,8 @@ Spring Boot로 여러 데이터 소스를 구성하고 사용하는 방법이다
 
 * spring-boot 2.6.7
 
+* spring boot mybatis 2.2.2
+
 * Oracle 12c
 
 * PostgreSQL 13.5
